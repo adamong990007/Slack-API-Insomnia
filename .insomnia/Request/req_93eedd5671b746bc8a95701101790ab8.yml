@@ -1,0 +1,30 @@
+_id: req_93eedd5671b746bc8a95701101790ab8
+type: Request
+parentId: wrk_28d0d00aabf443139942803ed48a1696
+modified: 1686191228430
+created: 1686112225089
+url: http://206.189.91.54/api/v1/auth/
+name: "Slack API: Authenticate"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "adamski@kmail.com",
+    	"password": 990007,
+    	"password_confirmation": 990007
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686112225089
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

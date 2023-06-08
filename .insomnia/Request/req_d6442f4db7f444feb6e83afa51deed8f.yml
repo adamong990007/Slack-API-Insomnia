@@ -1,0 +1,21 @@
+_id: req_d6442f4db7f444feb6e83afa51deed8f
+type: Request
+parentId: wrk_28d0d00aabf443139942803ed48a1696
+modified: 1686191289591
+created: 1686191277016
+url: ""
+name: "Slack API: Login"
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1686191277016
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
